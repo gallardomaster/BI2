@@ -1,0 +1,2 @@
+SUBSTRING( (DT_WSTR, 29) GETDATE(), 1, 10)
+C:\uttt\Cuatrimestreseptiembrediciembre2023\ING\INTELIGENCIA DE NEGOCIOS\BI\EjerciciosETL\01 - Flujo de Control\03-Tarea de Expresion\
